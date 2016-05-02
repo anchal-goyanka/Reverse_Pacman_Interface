@@ -1,0 +1,2 @@
+for actions in [1]:
+    print actions
